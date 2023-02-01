@@ -1,0 +1,12 @@
+{"id": 0, "name": "1", "algorithm": "isolation", "value": 11, "category": "NOT_ISOLATED", "date": null, "extras": {}, "start": 57, "end": 74}
+{"id": 1, "name": "1", "algorithm": "isolation", "value": 3, "category": "LACK_SUPPORT", "date": null, "extras": {}, "start": 53, "end": 65}
+{"id": 2, "name": "1", "algorithm": "alone", "value": 1, "category": "ALONE", "date": null, "extras": {}, "start": 3, "end": 14}
+{"id": 3, "name": "2", "algorithm": "isolation", "value": 3, "category": "LACK_SUPPORT", "date": null, "extras": {}, "start": 11, "end": 33}
+{"id": 4, "name": "3", "algorithm": "isolation", "value": 1, "category": "ISOLATED", "date": null, "extras": {}, "start": 16, "end": 37}
+{"id": 5, "name": "3", "algorithm": "isolation", "value": 3, "category": "LACK_SUPPORT", "date": null, "extras": {}, "start": 47, "end": 73}
+{"id": 6, "name": "5", "algorithm": "isolation", "value": 11, "category": "NOT_ISOLATED", "date": null, "extras": {}, "start": 57, "end": 74}
+{"id": 7, "name": "5", "algorithm": "isolation", "value": 3, "category": "LACK_SUPPORT", "date": null, "extras": {}, "start": 53, "end": 65}
+{"id": 8, "name": "5", "algorithm": "alone", "value": 1, "category": "ALONE", "date": null, "extras": {}, "start": 3, "end": 14}
+{"id": 9, "name": "6", "algorithm": "isolation", "value": 1, "category": "ISOLATED", "date": null, "extras": {}, "start": 16, "end": 37}
+{"id": 10, "name": "6", "algorithm": "isolation", "value": 3, "category": "LACK_SUPPORT", "date": null, "extras": {}, "start": 47, "end": 73}
+{"id": 11, "name": "7", "algorithm": "isolation", "value": 3, "category": "LACK_SUPPORT", "date": null, "extras": {}, "start": 11, "end": 33}

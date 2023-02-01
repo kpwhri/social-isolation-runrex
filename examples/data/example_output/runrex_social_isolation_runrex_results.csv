@@ -1,0 +1,13 @@
+doc_id,source,algorithm,category,start_idx,end_idx,pre_context,post_context
+1,social_isolation_runrex_results,isolation,NOT_ISOLATED,57,74,,
+1,social_isolation_runrex_results,isolation,LACK_SUPPORT,53,65,,
+1,social_isolation_runrex_results,alone,ALONE,3,14,,
+2,social_isolation_runrex_results,isolation,LACK_SUPPORT,11,33,,
+3,social_isolation_runrex_results,isolation,ISOLATED,16,37,,
+3,social_isolation_runrex_results,isolation,LACK_SUPPORT,47,73,,
+5,social_isolation_runrex_results,isolation,NOT_ISOLATED,57,74,,
+5,social_isolation_runrex_results,isolation,LACK_SUPPORT,53,65,,
+5,social_isolation_runrex_results,alone,ALONE,3,14,,
+6,social_isolation_runrex_results,isolation,ISOLATED,16,37,,
+6,social_isolation_runrex_results,isolation,LACK_SUPPORT,47,73,,
+7,social_isolation_runrex_results,isolation,LACK_SUPPORT,11,33,,

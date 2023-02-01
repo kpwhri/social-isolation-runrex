@@ -1,0 +1,10 @@
+Unique Documents with a hit:	6
+Other Variables (count):
+	NOT_ISOLATED_isolation	2
+	NOT_ISOLATED	2
+	LACK_SUPPORT_isolation	6
+	LACK_SUPPORT	6
+	ISOLATED_isolation	2
+	ISOLATED	2
+	ALONE_alone	2
+	ALONE	2
